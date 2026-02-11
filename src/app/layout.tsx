@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Watts Electric | Website Update",
-  description: "Watch your 60-second website update now. Click to view the interactive preview.",
+  title: "I made something special for you.",
+  description: "Click to see what I built for you. I think you'll really like it.",
   openGraph: {
-    title: "Watts Electric - Website Update",
-    description: "Watch your 60-second website update now. Click to view the interactive preview.",
+    title: "I made something special for you.",
+    description: "Click to see what I built for you. I think you'll really like it.",
     type: "website",
     url: "https://watts-electric-five.vercel.app/quick-video",
     images: [
