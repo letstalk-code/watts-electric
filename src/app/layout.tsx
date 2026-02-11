@@ -13,26 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Watts Electric, LLC | Licensed Electrician Serving Pasco & Pinellas",
-  description:
-    "Licensed, bonded & insured electrical contractor serving Pasco & Pinellas counties. Residential, commercial, emergency service. Free estimates. Call 727-484-8618.",
-  keywords: [
-    "electrician",
-    "electrical contractor",
-    "Pasco County",
-    "Pinellas County",
-    "residential electrician",
-    "commercial electrician",
-    "emergency electrical service",
-    "free estimate",
-    "licensed electrician",
-  ],
+  title: "Watts Electric | Licensed Electrician",
+  description: "Serving Pasco & Pinellas. Reliable, expert electrical service. Watch our update.",
   openGraph: {
-    title: "Watts Electric, LLC | Licensed Electrician",
-    description:
-      "Licensed, bonded & insured. Residential, commercial, emergency service. Free estimates.",
+    title: "Watts Electric | Licensed Electrician",
+    description: "Reliable, expert electrical service. Watch our update.",
     type: "website",
+    url: "https://watts-electric-five.vercel.app",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Watts Electric | Licensed Electrician",
+    description: "Expert electrical service.",
+  }
 };
 
 export default function RootLayout({
