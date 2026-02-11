@@ -45,10 +45,8 @@ function QuickVideoContent() {
                     border: '3px solid #C0392B'
                 }}>
                     <iframe
-                        src="https://www.loom.com/embed/a5189b6855d94053ac57ce296f42a514"
+                        src="https://www.loom.com/embed/27192df34da54e68a18d98b2801fb417"
                         frameBorder="0"
-                        webkitallowfullscreen="true"
-                        mozallowfullscreen="true"
                         allowFullScreen
                         style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
                     ></iframe>
